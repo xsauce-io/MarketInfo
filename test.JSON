@@ -1,24 +1,22 @@
 {
-    "4": {
-        "OrderBookFactory20": {
-            "address": "0x7eE2B537c0600D8B67609250E59a6B09c4536F37",
-            "created": "2022-09-04T00:02:12.884Z"
+    "3": {
+        "A": {
+            "name":"Jordan 6 Retro Infrared Black (2014)",
+            "sku":"384664-023",
+            "prediction":300,
+            "expiration":1662728400
         },
-        "OrderBookRouter20": {
-            "address": "0xb837Ac660C77C3Ee32F276BD1e62C6d24E5EccBb",
-            "created": "2022-09-04T00:07:50.059Z"
+        "B": {
+            "name":"Jordan 1 Retro High 85",
+            "sku":"BQ4422-400",
+            "prediction":200,
+            "expiration":1662814800,
         },
-        "Token20A184": {
-            "address": "0x919aa48b0d57CC977f03541BA0ff3d3A8D6007be",
-            "created": "2022-09-04T00:08:19.332Z"
-        },
-        "Token20B185": {
-            "address": "0x0AdB38Fbf6484797949C699a573227B43019d341",
-            "created": "2022-09-04T00:08:24.681Z"
-        },
-        "OrderBook20": {
-            "address": "0xDeaAB3bD5Fd796C54df7786BF349D656d96365cA",
-            "created": "2022-09-04T00:08:39.015Z"
+        "C": {
+            "name":"Jordan 11 Retro Jubilee 25th Anniversary",
+            "sku":"CT8012-011",
+            "prediction":250,
+            "expiration":1662901200
         }
     }
 }
