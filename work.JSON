@@ -1,1 +1,22 @@
-{"3":{"A":{"name":"Jordan 6 Retro Infrared Black (2014)","sku":"384664-023","prediction":300,"expiration":1662728400},"B":{"name":"Jordan 1 Retro High 85","sku":"BQ4422-400","prediction":200,"expiration":1662814800},"C":{"name":"Jordan 11 Retro Jubilee 25th Anniversary","sku":"CT8012-011","prediction":250,"expiration":1662901200}}}
+{
+	"3":{
+		"A":{
+			"name":"Jordan 6 Retro Infrared Black (2014)",
+			"sku":"384664-023",
+			"prediction":300,
+			"expiration":1662728400
+		},
+		"B":{
+			"name":"Jordan 1 Retro High 85",
+			"sku":"BQ4422-400",
+			"prediction":200,
+			"expiration":1662814800
+		},
+		"C":{
+			"name":"Jordan 11 Retro Jubilee 25th Anniversary",
+			"sku":"CT8012-011",
+			"prediction":250,
+			"expiration":1662901200
+		}
+	}
+}
