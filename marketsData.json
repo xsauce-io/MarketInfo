@@ -4,7 +4,8 @@
 			"name":"Jordan 6 Retro Infrared Black (2014)",
 			"sku":"384664-023",
 			"prediction":300,
-			"expiration":1662728400
+			"expiration":1662728400,
+			"address":"0xac9BD2821B4296ea92b716DB8D841e46cd1f2F71"
 		},
 		"BQ4422-400":{
 			"name":"Jordan 1 Retro High 85",
