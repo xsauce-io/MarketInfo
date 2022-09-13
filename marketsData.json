@@ -18,14 +18,14 @@
 			"name":"Jordan 11 Retro Jubilee 25th Anniversary",
 			"sku":"CT8012-011",
 			"prediction":250,
-			"expiration":1663693200
+			"expiration":1663693200,
 			"address":"0xEc48934ce43df67c69202e82b846F8dca821EAa6"
 		},
 		"DV2122-400":{
 			"name":"Dunk Low 'Jackie Robinson'",
 			"sku":"DV2122-400",
 			"prediction":150,
-			"expiration":1663866000
+			"expiration":1663866000,
 			"address":"0x560Ac3D6E79a658E16f248b5C976D596D9392d58"
 		}
 	}
