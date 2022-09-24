@@ -1,32 +1,32 @@
 {
   "3":{
-    "315728-381":{
-      "name":"Nike Air Max 90 Warhawk",
-      "sku":"315728-381",
-      "prediction":4500,
-      "expiration":1664130506,
-      "address":"0x21b137B94B52C03bE372270644dd38E7C881FCB2"
-    },
-    "BQ4422-400":{
-      "name":"Jordan 1 Retro High 85",
-      "sku":"BQ4422-400",
+    "DH7138-006":{
+      "name":"Air Jordan 4 'Black Canvas'",
+      "sku":"DH7138-006",
       "prediction":300,
-      "expiration":1663520400,
-      "address":"0xc1Aa2632054ab8aa38Df8C9922cf745D17C53c5C"
+      "expiration":1665158400,
+      "address":"0xd65Ca231f746D9fca16F8d36d912fdB1915B5a15"
     },
-    "CT8012-011":{
-      "name":"Jordan 11 Retro Jubilee 25th Anniversary",
-      "sku":"CT8012-011",
-      "prediction":250,
-      "expiration":1663693200,
-      "address":"0xEc48934ce43df67c69202e82b846F8dca821EAa6"
+    "DR8869-200":{
+      "name":"Jordan 3 Retro Winterized",
+      "sku":"DR8869-200",
+      "prediction":330,
+      "expiration":1665763200,
+      "address":"0x487F3F51519c194439FcFB8c518C487d5076a432"
     },
-    "DV2122-400":{
-      "name":"Dunk Low 'Jackie Robinson'",
-      "sku":"DV2122-400",
-      "prediction":150,
-      "expiration":1663866000,
-      "address":"0x560Ac3D6E79a658E16f248b5C976D596D9392d58"
+    "DR0501-101":{
+      "name":"Air Jordan 1 Mid Split WMNS",
+      "sku":"DR0501-101",
+      "prediction":230,
+      "expiration":1665590400,
+      "address":"0x36800DdA4fAaA82C7E07363c76Ebc48c4217f3c1"
+    },
+    "DX2836-001":{
+      "name":"Air Jordan 6 'Black Chrome'",
+      "sku":"DX2836-001",
+      "prediction":260,
+      "expiration":1666281600,
+      "address":"0x59f3F4312Ee4582f8aE97CC04B133f4Ac7d2C77c"
     }
   }
 }
