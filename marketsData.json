@@ -5,28 +5,32 @@
       "sku":"DH7138-006",
       "prediction":300,
       "expiration":1665158400,
-      "address":"0xd65Ca231f746D9fca16F8d36d912fdB1915B5a15"
+      "address":"0xd65Ca231f746D9fca16F8d36d912fdB1915B5a15",
+      "book":"0x0c20745D5549687f0dF40e7644382f081de26E4A"
     },
     "DR8869-200":{
       "name":"Jordan 3 Retro Winterized",
       "sku":"DR8869-200",
       "prediction":330,
       "expiration":1665763200,
-      "address":"0x487F3F51519c194439FcFB8c518C487d5076a432"
+      "address":"0x487F3F51519c194439FcFB8c518C487d5076a432",
+      "book":"0xFB37c7B4C837f619bD7A308230cC6eE34064e7d4"
     },
     "DR0501-101":{
       "name":"Air Jordan 1 Mid Split WMNS",
       "sku":"DR0501-101",
       "prediction":230,
       "expiration":1665590400,
-      "address":"0x36800DdA4fAaA82C7E07363c76Ebc48c4217f3c1"
+      "address":"0x36800DdA4fAaA82C7E07363c76Ebc48c4217f3c1",
+      "book":"0x6Db61fBD43A9dEdf9E08348941161bA114F7254a"
     },
     "DX2836-001":{
       "name":"Air Jordan 6 'Black Chrome'",
       "sku":"DX2836-001",
       "prediction":260,
       "expiration":1666281600,
-      "address":"0x59f3F4312Ee4582f8aE97CC04B133f4Ac7d2C77c"
+      "address":"0x59f3F4312Ee4582f8aE97CC04B133f4Ac7d2C77c",
+      "book":"0xB6351BD90a83Cea1137344D8DA8867b36f6F97DD"
     }
   }
 }
