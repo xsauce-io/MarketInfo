@@ -5,7 +5,7 @@
       "sku":"DH7138-006",
       "prediction":300,
       "expiration":1665158400,
-      "address":"0xd65Ca231f746D9fca16F8d36d912fdB1915B5a15",
+      "address":"0xf6f85f84f06956339F44e4757Aa7C1A40F29f9D4",
       "book":"0x0c20745D5549687f0dF40e7644382f081de26E4A"
     },
     "DR8869-200":{
@@ -13,7 +13,7 @@
       "sku":"DR8869-200",
       "prediction":330,
       "expiration":1665763200,
-      "address":"0x487F3F51519c194439FcFB8c518C487d5076a432",
+      "address":"0x2f67a45CF8BC8124105B89b6b058E3D002191Ae7",
       "book":"0xFB37c7B4C837f619bD7A308230cC6eE34064e7d4"
     },
     "DR0501-101":{
@@ -21,7 +21,7 @@
       "sku":"DR0501-101",
       "prediction":230,
       "expiration":1665590400,
-      "address":"0x36800DdA4fAaA82C7E07363c76Ebc48c4217f3c1",
+      "address":"0xb01fB6CD34Ca646eEFA62FAbEEc4b9aAE0B32D4e",
       "book":"0x6Db61fBD43A9dEdf9E08348941161bA114F7254a"
     },
     "DX2836-001":{
@@ -29,7 +29,7 @@
       "sku":"DX2836-001",
       "prediction":260,
       "expiration":1666281600,
-      "address":"0x59f3F4312Ee4582f8aE97CC04B133f4Ac7d2C77c",
+      "address":"0x31BBb210C920De66C49BdE7a5Acd3ca8222CA33B",
       "book":"0xB6351BD90a83Cea1137344D8DA8867b36f6F97DD"
     }
   }
